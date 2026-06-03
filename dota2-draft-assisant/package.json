@@ -1,0 +1,16 @@
+{
+  "name": "dota2-draft-assistant",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "apps/front",
+    "apps/api",
+    "packages/shared"
+  ],
+  "scripts": {
+    "dev:front": "pnpm --filter @d2bp/front dev",
+    "dev:api": "pnpm --filter @d2bp/api dev",
+    "build": "pnpm -r build",
+    "lint": "pnpm -r lint"
+  }
+}

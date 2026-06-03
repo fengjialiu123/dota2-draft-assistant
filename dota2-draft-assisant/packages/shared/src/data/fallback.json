@@ -1,0 +1,2269 @@
+[
+  {
+    "id": 1,
+    "name": "Anti-Mage",
+    "cn": "敌法师",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Nuker"
+    ],
+    "tags": [
+      "carry",
+      "late",
+      "mobile",
+      "mana_burn",
+      "physical"
+    ],
+    "attribute": "agi",
+    "localizedName": "敌法师"
+  },
+  {
+    "id": 2,
+    "name": "Axe",
+    "cn": "斧王",
+    "roles": [
+      "Initiator",
+      "Durable",
+      "Disabler"
+    ],
+    "tags": [
+      "init",
+      "tank",
+      "control",
+      "bkb_pierce",
+      "anti_illusion"
+    ],
+    "attribute": "str",
+    "localizedName": "斧王"
+  },
+  {
+    "id": 3,
+    "name": "Bane",
+    "cn": "祸乱之源",
+    "roles": [
+      "Support",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "control",
+      "save",
+      "single_target"
+    ],
+    "attribute": "all",
+    "localizedName": "祸乱之源"
+  },
+  {
+    "id": 4,
+    "name": "Bloodseeker",
+    "cn": "血魔",
+    "roles": [
+      "Carry",
+      "Disabler",
+      "Nuker"
+    ],
+    "tags": [
+      "carry",
+      "catch",
+      "silence",
+      "anti_mobile",
+      "physical"
+    ],
+    "attribute": "agi",
+    "localizedName": "血魔"
+  },
+  {
+    "id": 5,
+    "name": "Crystal Maiden",
+    "cn": "水晶室女",
+    "roles": [
+      "Support",
+      "Disabler",
+      "Nuker"
+    ],
+    "tags": [
+      "support",
+      "control",
+      "magic",
+      "aura"
+    ],
+    "attribute": "int",
+    "localizedName": "水晶室女"
+  },
+  {
+    "id": 6,
+    "name": "Drow Ranger",
+    "cn": "卓尔游侠",
+    "roles": [
+      "Carry",
+      "Disabler",
+      "Pusher"
+    ],
+    "tags": [
+      "carry",
+      "ranged",
+      "tower",
+      "silence",
+      "physical"
+    ],
+    "attribute": "agi",
+    "localizedName": "卓尔游侠"
+  },
+  {
+    "id": 7,
+    "name": "Earthshaker",
+    "cn": "撼地者",
+    "roles": [
+      "Support",
+      "Initiator",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "init",
+      "control",
+      "teamfight",
+      "anti_illusion"
+    ],
+    "attribute": "str",
+    "localizedName": "撼地者"
+  },
+  {
+    "id": 8,
+    "name": "Juggernaut",
+    "cn": "主宰",
+    "roles": [
+      "Carry",
+      "Pusher",
+      "Escape"
+    ],
+    "tags": [
+      "carry",
+      "late",
+      "sustain",
+      "tower",
+      "physical"
+    ],
+    "attribute": "agi",
+    "localizedName": "主宰"
+  },
+  {
+    "id": 9,
+    "name": "Mirana",
+    "cn": "米拉娜",
+    "roles": [
+      "Carry",
+      "Support",
+      "Escape"
+    ],
+    "tags": [
+      "support",
+      "catch",
+      "mobile",
+      "magic"
+    ],
+    "attribute": "all",
+    "localizedName": "米拉娜"
+  },
+  {
+    "id": 10,
+    "name": "Morphling",
+    "cn": "变体精灵",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Durable"
+    ],
+    "tags": [
+      "carry",
+      "late",
+      "mobile",
+      "physical"
+    ],
+    "attribute": "agi",
+    "localizedName": "变体精灵"
+  },
+  {
+    "id": 11,
+    "name": "Shadow Fiend",
+    "cn": "影魔",
+    "roles": [
+      "Carry",
+      "Nuker"
+    ],
+    "tags": [
+      "mid",
+      "magic",
+      "physical",
+      "tower",
+      "tempo"
+    ],
+    "attribute": "agi",
+    "localizedName": "影魔"
+  },
+  {
+    "id": 12,
+    "name": "Phantom Lancer",
+    "cn": "幻影长矛手",
+    "roles": [
+      "Carry",
+      "Escape"
+    ],
+    "tags": [
+      "carry",
+      "late",
+      "illusion",
+      "physical"
+    ],
+    "attribute": "agi",
+    "localizedName": "幻影长矛手"
+  },
+  {
+    "id": 13,
+    "name": "Puck",
+    "cn": "帕克",
+    "roles": [
+      "Initiator",
+      "Disabler",
+      "Escape"
+    ],
+    "tags": [
+      "mid",
+      "init",
+      "control",
+      "mobile",
+      "magic",
+      "silence"
+    ],
+    "attribute": "int",
+    "localizedName": "帕克"
+  },
+  {
+    "id": 14,
+    "name": "Pudge",
+    "cn": "帕吉",
+    "roles": [
+      "Disabler",
+      "Durable",
+      "Initiator"
+    ],
+    "tags": [
+      "support",
+      "catch",
+      "tank",
+      "control"
+    ],
+    "attribute": "str",
+    "localizedName": "帕吉"
+  },
+  {
+    "id": 15,
+    "name": "Razor",
+    "cn": "剃刀",
+    "roles": [
+      "Carry",
+      "Durable",
+      "Nuker"
+    ],
+    "tags": [
+      "core",
+      "lane",
+      "tank",
+      "physical"
+    ],
+    "attribute": "agi",
+    "localizedName": "剃刀"
+  },
+  {
+    "id": 16,
+    "name": "Sand King",
+    "cn": "沙王",
+    "roles": [
+      "Initiator",
+      "Disabler",
+      "Nuker"
+    ],
+    "tags": [
+      "init",
+      "control",
+      "clear",
+      "teamfight",
+      "magic"
+    ],
+    "attribute": "all",
+    "localizedName": "沙王"
+  },
+  {
+    "id": 17,
+    "name": "Storm Spirit",
+    "cn": "风暴之灵",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Nuker"
+    ],
+    "tags": [
+      "mid",
+      "mobile",
+      "catch",
+      "magic"
+    ],
+    "attribute": "int",
+    "localizedName": "风暴之灵"
+  },
+  {
+    "id": 18,
+    "name": "Sven",
+    "cn": "斯温",
+    "roles": [
+      "Carry",
+      "Disabler",
+      "Durable"
+    ],
+    "tags": [
+      "carry",
+      "late",
+      "physical",
+      "control",
+      "cleave"
+    ],
+    "attribute": "str",
+    "localizedName": "斯温"
+  },
+  {
+    "id": 19,
+    "name": "Tiny",
+    "cn": "小小",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Disabler"
+    ],
+    "tags": [
+      "core",
+      "burst",
+      "catch",
+      "tower",
+      "physical"
+    ],
+    "attribute": "str",
+    "localizedName": "小小"
+  },
+  {
+    "id": 20,
+    "name": "Vengeful Spirit",
+    "cn": "复仇之魂",
+    "roles": [
+      "Support",
+      "Initiator",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "save",
+      "control",
+      "aura",
+      "physical"
+    ],
+    "attribute": "all",
+    "localizedName": "复仇之魂"
+  },
+  {
+    "id": 21,
+    "name": "Windranger",
+    "cn": "风行者",
+    "roles": [
+      "Carry",
+      "Support",
+      "Disabler"
+    ],
+    "tags": [
+      "core",
+      "catch",
+      "mobile",
+      "physical"
+    ],
+    "attribute": "all",
+    "localizedName": "风行者"
+  },
+  {
+    "id": 22,
+    "name": "Zeus",
+    "cn": "宙斯",
+    "roles": [
+      "Nuker"
+    ],
+    "tags": [
+      "mid",
+      "magic",
+      "burst",
+      "vision"
+    ],
+    "attribute": "int",
+    "localizedName": "宙斯"
+  },
+  {
+    "id": 23,
+    "name": "Kunkka",
+    "cn": "昆卡",
+    "roles": [
+      "Carry",
+      "Initiator",
+      "Disabler",
+      "Durable"
+    ],
+    "tags": [
+      "core",
+      "init",
+      "control",
+      "teamfight",
+      "tank"
+    ],
+    "attribute": "str",
+    "localizedName": "昆卡"
+  },
+  {
+    "id": 25,
+    "name": "Lina",
+    "cn": "莉娜",
+    "roles": [
+      "Support",
+      "Carry",
+      "Nuker"
+    ],
+    "tags": [
+      "mid",
+      "burst",
+      "magic",
+      "ranged"
+    ],
+    "attribute": "int",
+    "localizedName": "莉娜"
+  },
+  {
+    "id": 26,
+    "name": "Lion",
+    "cn": "莱恩",
+    "roles": [
+      "Support",
+      "Disabler",
+      "Nuker"
+    ],
+    "tags": [
+      "support",
+      "control",
+      "burst",
+      "hex"
+    ],
+    "attribute": "int",
+    "localizedName": "莱恩"
+  },
+  {
+    "id": 27,
+    "name": "Shadow Shaman",
+    "cn": "暗影萨满",
+    "roles": [
+      "Support",
+      "Disabler",
+      "Pusher"
+    ],
+    "tags": [
+      "support",
+      "control",
+      "tower",
+      "hex"
+    ],
+    "attribute": "int",
+    "localizedName": "暗影萨满"
+  },
+  {
+    "id": 28,
+    "name": "Slardar",
+    "cn": "斯拉达",
+    "roles": [
+      "Carry",
+      "Initiator",
+      "Durable"
+    ],
+    "tags": [
+      "core",
+      "init",
+      "control",
+      "roshan",
+      "physical"
+    ],
+    "attribute": "str",
+    "localizedName": "斯拉达"
+  },
+  {
+    "id": 29,
+    "name": "Tidehunter",
+    "cn": "潮汐猎人",
+    "roles": [
+      "Initiator",
+      "Durable",
+      "Disabler"
+    ],
+    "tags": [
+      "offlane",
+      "init",
+      "teamfight",
+      "tank",
+      "control"
+    ],
+    "attribute": "str",
+    "localizedName": "潮汐猎人"
+  },
+  {
+    "id": 30,
+    "name": "Witch Doctor",
+    "cn": "巫医",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "sustain",
+      "magic",
+      "teamfight"
+    ],
+    "attribute": "int",
+    "localizedName": "巫医"
+  },
+  {
+    "id": 31,
+    "name": "Lich",
+    "cn": "巫妖",
+    "roles": [
+      "Support",
+      "Nuker"
+    ],
+    "tags": [
+      "support",
+      "lane",
+      "magic",
+      "teamfight"
+    ],
+    "attribute": "int",
+    "localizedName": "巫妖"
+  },
+  {
+    "id": 32,
+    "name": "Riki",
+    "cn": "力丸",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Disabler"
+    ],
+    "tags": [
+      "carry",
+      "mobile",
+      "silence",
+      "pickoff"
+    ],
+    "attribute": "agi",
+    "localizedName": "力丸"
+  },
+  {
+    "id": 33,
+    "name": "Enigma",
+    "cn": "谜团",
+    "roles": [
+      "Disabler",
+      "Initiator",
+      "Pusher"
+    ],
+    "tags": [
+      "offlane",
+      "init",
+      "bkb_pierce",
+      "teamfight",
+      "summon"
+    ],
+    "attribute": "all",
+    "localizedName": "谜团"
+  },
+  {
+    "id": 34,
+    "name": "Tinker",
+    "cn": "修补匠",
+    "roles": [
+      "Nuker",
+      "Pusher"
+    ],
+    "tags": [
+      "mid",
+      "magic",
+      "late",
+      "clear"
+    ],
+    "attribute": "int",
+    "localizedName": "修补匠"
+  },
+  {
+    "id": 35,
+    "name": "Sniper",
+    "cn": "狙击手",
+    "roles": [
+      "Carry"
+    ],
+    "tags": [
+      "carry",
+      "ranged",
+      "physical",
+      "tower"
+    ],
+    "attribute": "agi",
+    "localizedName": "狙击手"
+  },
+  {
+    "id": 36,
+    "name": "Necrophos",
+    "cn": "瘟疫法师",
+    "roles": [
+      "Carry",
+      "Durable",
+      "Nuker"
+    ],
+    "tags": [
+      "core",
+      "sustain",
+      "tank",
+      "magic",
+      "anti_tank"
+    ],
+    "attribute": "int",
+    "localizedName": "瘟疫法师"
+  },
+  {
+    "id": 37,
+    "name": "Warlock",
+    "cn": "术士",
+    "roles": [
+      "Support",
+      "Initiator"
+    ],
+    "tags": [
+      "support",
+      "teamfight",
+      "sustain",
+      "bkb_pierce"
+    ],
+    "attribute": "int",
+    "localizedName": "术士"
+  },
+  {
+    "id": 38,
+    "name": "Beastmaster",
+    "cn": "兽王",
+    "roles": [
+      "Initiator",
+      "Durable",
+      "Disabler"
+    ],
+    "tags": [
+      "offlane",
+      "init",
+      "vision",
+      "summon",
+      "tower"
+    ],
+    "attribute": "all",
+    "localizedName": "兽王"
+  },
+  {
+    "id": 39,
+    "name": "Queen of Pain",
+    "cn": "痛苦女王",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Escape"
+    ],
+    "tags": [
+      "mid",
+      "mobile",
+      "magic",
+      "burst"
+    ],
+    "attribute": "int",
+    "localizedName": "痛苦女王"
+  },
+  {
+    "id": 40,
+    "name": "Venomancer",
+    "cn": "剧毒术士",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Pusher"
+    ],
+    "tags": [
+      "support",
+      "lane",
+      "tower",
+      "anti_blink",
+      "magic"
+    ],
+    "attribute": "all",
+    "localizedName": "剧毒术士"
+  },
+  {
+    "id": 41,
+    "name": "Faceless Void",
+    "cn": "虚空假面",
+    "roles": [
+      "Carry",
+      "Initiator",
+      "Disabler"
+    ],
+    "tags": [
+      "carry",
+      "late",
+      "init",
+      "control",
+      "teamfight"
+    ],
+    "attribute": "agi",
+    "localizedName": "虚空假面"
+  },
+  {
+    "id": 42,
+    "name": "Wraith King",
+    "cn": "冥魂大帝",
+    "roles": [
+      "Carry",
+      "Durable"
+    ],
+    "tags": [
+      "carry",
+      "tank",
+      "late",
+      "sustain",
+      "physical"
+    ],
+    "attribute": "str",
+    "localizedName": "冥魂大帝"
+  },
+  {
+    "id": 43,
+    "name": "Death Prophet",
+    "cn": "死亡先知",
+    "roles": [
+      "Carry",
+      "Pusher",
+      "Nuker"
+    ],
+    "tags": [
+      "mid",
+      "tower",
+      "sustain",
+      "teamfight",
+      "magic"
+    ],
+    "attribute": "int",
+    "localizedName": "死亡先知"
+  },
+  {
+    "id": 44,
+    "name": "Phantom Assassin",
+    "cn": "幻影刺客",
+    "roles": [
+      "Carry",
+      "Escape"
+    ],
+    "tags": [
+      "carry",
+      "late",
+      "physical",
+      "burst"
+    ],
+    "attribute": "agi",
+    "localizedName": "幻影刺客"
+  },
+  {
+    "id": 45,
+    "name": "Pugna",
+    "cn": "帕格纳",
+    "roles": [
+      "Nuker",
+      "Pusher"
+    ],
+    "tags": [
+      "mid",
+      "tower",
+      "magic",
+      "save",
+      "anti_magic"
+    ],
+    "attribute": "int",
+    "localizedName": "帕格纳"
+  },
+  {
+    "id": 46,
+    "name": "Templar Assassin",
+    "cn": "圣堂刺客",
+    "roles": [
+      "Carry",
+      "Escape"
+    ],
+    "tags": [
+      "mid",
+      "roshan",
+      "burst",
+      "physical",
+      "tempo"
+    ],
+    "attribute": "agi",
+    "localizedName": "圣堂刺客"
+  },
+  {
+    "id": 47,
+    "name": "Viper",
+    "cn": "冥界亚龙",
+    "roles": [
+      "Carry",
+      "Durable"
+    ],
+    "tags": [
+      "core",
+      "lane",
+      "break",
+      "anti_tank",
+      "ranged"
+    ],
+    "attribute": "agi",
+    "localizedName": "冥界亚龙"
+  },
+  {
+    "id": 48,
+    "name": "Luna",
+    "cn": "露娜",
+    "roles": [
+      "Carry",
+      "Pusher",
+      "Nuker"
+    ],
+    "tags": [
+      "carry",
+      "tower",
+      "magic",
+      "physical",
+      "late"
+    ],
+    "attribute": "agi",
+    "localizedName": "露娜"
+  },
+  {
+    "id": 49,
+    "name": "Dragon Knight",
+    "cn": "龙骑士",
+    "roles": [
+      "Carry",
+      "Durable",
+      "Disabler",
+      "Pusher"
+    ],
+    "tags": [
+      "core",
+      "tank",
+      "tower",
+      "control",
+      "tempo"
+    ],
+    "attribute": "str",
+    "localizedName": "龙骑士"
+  },
+  {
+    "id": 50,
+    "name": "Dazzle",
+    "cn": "戴泽",
+    "roles": [
+      "Support"
+    ],
+    "tags": [
+      "support",
+      "save",
+      "sustain",
+      "physical"
+    ],
+    "attribute": "all",
+    "localizedName": "戴泽"
+  },
+  {
+    "id": 51,
+    "name": "Clockwerk",
+    "cn": "发条技师",
+    "roles": [
+      "Initiator",
+      "Disabler",
+      "Durable"
+    ],
+    "tags": [
+      "support",
+      "init",
+      "catch",
+      "vision",
+      "control"
+    ],
+    "attribute": "all",
+    "localizedName": "发条技师"
+  },
+  {
+    "id": 52,
+    "name": "Leshrac",
+    "cn": "拉席克",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Pusher"
+    ],
+    "tags": [
+      "mid",
+      "tower",
+      "magic",
+      "clear",
+      "tempo"
+    ],
+    "attribute": "int",
+    "localizedName": "拉席克"
+  },
+  {
+    "id": 53,
+    "name": "Nature's Prophet",
+    "cn": "先知",
+    "roles": [
+      "Carry",
+      "Pusher",
+      "Escape"
+    ],
+    "tags": [
+      "core",
+      "tower",
+      "global",
+      "summon",
+      "physical"
+    ],
+    "attribute": "int",
+    "localizedName": "先知"
+  },
+  {
+    "id": 54,
+    "name": "Lifestealer",
+    "cn": "噬魂鬼",
+    "roles": [
+      "Carry",
+      "Durable",
+      "Escape"
+    ],
+    "tags": [
+      "carry",
+      "sustain",
+      "anti_tank",
+      "physical"
+    ],
+    "attribute": "str",
+    "localizedName": "噬魂鬼"
+  },
+  {
+    "id": 55,
+    "name": "Dark Seer",
+    "cn": "黑暗贤者",
+    "roles": [
+      "Initiator",
+      "Escape",
+      "Disabler"
+    ],
+    "tags": [
+      "offlane",
+      "teamfight",
+      "save",
+      "clear",
+      "magic"
+    ],
+    "attribute": "all",
+    "localizedName": "黑暗贤者"
+  },
+  {
+    "id": 56,
+    "name": "Clinkz",
+    "cn": "克林克兹",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Pusher"
+    ],
+    "tags": [
+      "carry",
+      "pickoff",
+      "tower",
+      "physical"
+    ],
+    "attribute": "agi",
+    "localizedName": "克林克兹"
+  },
+  {
+    "id": 57,
+    "name": "Omniknight",
+    "cn": "全能骑士",
+    "roles": [
+      "Support",
+      "Durable"
+    ],
+    "tags": [
+      "support",
+      "save",
+      "sustain",
+      "dispel"
+    ],
+    "attribute": "str",
+    "localizedName": "全能骑士"
+  },
+  {
+    "id": 58,
+    "name": "Enchantress",
+    "cn": "魅惑魔女",
+    "roles": [
+      "Support",
+      "Pusher",
+      "Durable"
+    ],
+    "tags": [
+      "support",
+      "lane",
+      "summon",
+      "sustain"
+    ],
+    "attribute": "int",
+    "localizedName": "魅惑魔女"
+  },
+  {
+    "id": 59,
+    "name": "Huskar",
+    "cn": "哈斯卡",
+    "roles": [
+      "Carry",
+      "Durable"
+    ],
+    "tags": [
+      "mid",
+      "lane",
+      "roshan",
+      "sustain",
+      "anti_magic"
+    ],
+    "attribute": "str",
+    "localizedName": "哈斯卡"
+  },
+  {
+    "id": 60,
+    "name": "Night Stalker",
+    "cn": "暗夜魔王",
+    "roles": [
+      "Initiator",
+      "Durable",
+      "Disabler"
+    ],
+    "tags": [
+      "offlane",
+      "init",
+      "silence",
+      "vision",
+      "tank"
+    ],
+    "attribute": "str",
+    "localizedName": "暗夜魔王"
+  },
+  {
+    "id": 61,
+    "name": "Broodmother",
+    "cn": "育母蜘蛛",
+    "roles": [
+      "Carry",
+      "Pusher",
+      "Escape"
+    ],
+    "tags": [
+      "core",
+      "summon",
+      "tower",
+      "tempo"
+    ],
+    "attribute": "all",
+    "localizedName": "育母蜘蛛"
+  },
+  {
+    "id": 62,
+    "name": "Bounty Hunter",
+    "cn": "赏金猎人",
+    "roles": [
+      "Escape",
+      "Nuker"
+    ],
+    "tags": [
+      "support",
+      "vision",
+      "pickoff",
+      "physical"
+    ],
+    "attribute": "agi",
+    "localizedName": "赏金猎人"
+  },
+  {
+    "id": 63,
+    "name": "Weaver",
+    "cn": "编织者",
+    "roles": [
+      "Carry",
+      "Escape"
+    ],
+    "tags": [
+      "carry",
+      "mobile",
+      "physical",
+      "save"
+    ],
+    "attribute": "agi",
+    "localizedName": "编织者"
+  },
+  {
+    "id": 64,
+    "name": "Jakiro",
+    "cn": "杰奇洛",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Pusher"
+    ],
+    "tags": [
+      "support",
+      "clear",
+      "tower",
+      "control",
+      "magic"
+    ],
+    "attribute": "int",
+    "localizedName": "杰奇洛"
+  },
+  {
+    "id": 65,
+    "name": "Batrider",
+    "cn": "蝙蝠骑士",
+    "roles": [
+      "Initiator",
+      "Disabler",
+      "Escape"
+    ],
+    "tags": [
+      "offlane",
+      "init",
+      "catch",
+      "bkb_pierce",
+      "magic"
+    ],
+    "attribute": "all",
+    "localizedName": "蝙蝠骑士"
+  },
+  {
+    "id": 66,
+    "name": "Chen",
+    "cn": "陈",
+    "roles": [
+      "Support",
+      "Pusher"
+    ],
+    "tags": [
+      "support",
+      "summon",
+      "sustain",
+      "tower"
+    ],
+    "attribute": "all",
+    "localizedName": "陈"
+  },
+  {
+    "id": 67,
+    "name": "Spectre",
+    "cn": "幽鬼",
+    "roles": [
+      "Carry",
+      "Durable"
+    ],
+    "tags": [
+      "carry",
+      "late",
+      "global",
+      "tank",
+      "physical"
+    ],
+    "attribute": "agi",
+    "localizedName": "幽鬼"
+  },
+  {
+    "id": 68,
+    "name": "Ancient Apparition",
+    "cn": "远古冰魄",
+    "roles": [
+      "Support",
+      "Disabler",
+      "Nuker"
+    ],
+    "tags": [
+      "support",
+      "anti_heal",
+      "magic",
+      "global"
+    ],
+    "attribute": "int",
+    "localizedName": "远古冰魄"
+  },
+  {
+    "id": 69,
+    "name": "Doom",
+    "cn": "末日使者",
+    "roles": [
+      "Carry",
+      "Disabler",
+      "Durable"
+    ],
+    "tags": [
+      "offlane",
+      "init",
+      "silence",
+      "tank",
+      "anti_core"
+    ],
+    "attribute": "str",
+    "localizedName": "末日使者"
+  },
+  {
+    "id": 70,
+    "name": "Ursa",
+    "cn": "熊战士",
+    "roles": [
+      "Carry",
+      "Durable"
+    ],
+    "tags": [
+      "carry",
+      "roshan",
+      "anti_tank",
+      "physical"
+    ],
+    "attribute": "agi",
+    "localizedName": "熊战士"
+  },
+  {
+    "id": 71,
+    "name": "Spirit Breaker",
+    "cn": "裂魂人",
+    "roles": [
+      "Initiator",
+      "Durable",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "init",
+      "global",
+      "catch",
+      "tank"
+    ],
+    "attribute": "str",
+    "localizedName": "裂魂人"
+  },
+  {
+    "id": 72,
+    "name": "Gyrocopter",
+    "cn": "矮人直升机",
+    "roles": [
+      "Carry",
+      "Nuker"
+    ],
+    "tags": [
+      "carry",
+      "magic",
+      "physical",
+      "teamfight"
+    ],
+    "attribute": "agi",
+    "localizedName": "矮人直升机"
+  },
+  {
+    "id": 73,
+    "name": "Alchemist",
+    "cn": "炼金术士",
+    "roles": [
+      "Carry",
+      "Durable"
+    ],
+    "tags": [
+      "carry",
+      "tempo",
+      "sustain",
+      "physical"
+    ],
+    "attribute": "str",
+    "localizedName": "炼金术士"
+  },
+  {
+    "id": 74,
+    "name": "Invoker",
+    "cn": "祈求者",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Disabler"
+    ],
+    "tags": [
+      "mid",
+      "control",
+      "magic",
+      "global",
+      "tempo"
+    ],
+    "attribute": "all",
+    "localizedName": "祈求者"
+  },
+  {
+    "id": 75,
+    "name": "Silencer",
+    "cn": "沉默术士",
+    "roles": [
+      "Support",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "silence",
+      "teamfight",
+      "anti_magic"
+    ],
+    "attribute": "int",
+    "localizedName": "沉默术士"
+  },
+  {
+    "id": 76,
+    "name": "Outworld Destroyer",
+    "cn": "殁境神蚀者",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Disabler"
+    ],
+    "tags": [
+      "mid",
+      "magic",
+      "save",
+      "anti_tank"
+    ],
+    "attribute": "int",
+    "localizedName": "殁境神蚀者"
+  },
+  {
+    "id": 77,
+    "name": "Lycan",
+    "cn": "狼人",
+    "roles": [
+      "Carry",
+      "Pusher"
+    ],
+    "tags": [
+      "carry",
+      "summon",
+      "tower",
+      "tempo"
+    ],
+    "attribute": "all",
+    "localizedName": "狼人"
+  },
+  {
+    "id": 78,
+    "name": "Brewmaster",
+    "cn": "酒仙",
+    "roles": [
+      "Initiator",
+      "Durable",
+      "Disabler"
+    ],
+    "tags": [
+      "offlane",
+      "init",
+      "teamfight",
+      "tank",
+      "control"
+    ],
+    "attribute": "all",
+    "localizedName": "酒仙"
+  },
+  {
+    "id": 79,
+    "name": "Shadow Demon",
+    "cn": "暗影恶魔",
+    "roles": [
+      "Support",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "save",
+      "control",
+      "anti_illusion"
+    ],
+    "attribute": "int",
+    "localizedName": "暗影恶魔"
+  },
+  {
+    "id": 80,
+    "name": "Lone Druid",
+    "cn": "德鲁伊",
+    "roles": [
+      "Carry",
+      "Pusher",
+      "Durable"
+    ],
+    "tags": [
+      "carry",
+      "summon",
+      "tower",
+      "late"
+    ],
+    "attribute": "all",
+    "localizedName": "德鲁伊"
+  },
+  {
+    "id": 81,
+    "name": "Chaos Knight",
+    "cn": "混沌骑士",
+    "roles": [
+      "Carry",
+      "Disabler",
+      "Durable"
+    ],
+    "tags": [
+      "carry",
+      "illusion",
+      "burst",
+      "physical"
+    ],
+    "attribute": "str",
+    "localizedName": "混沌骑士"
+  },
+  {
+    "id": 82,
+    "name": "Meepo",
+    "cn": "米波",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Nuker"
+    ],
+    "tags": [
+      "mid",
+      "tempo",
+      "burst",
+      "physical"
+    ],
+    "attribute": "agi",
+    "localizedName": "米波"
+  },
+  {
+    "id": 83,
+    "name": "Treant Protector",
+    "cn": "树精卫士",
+    "roles": [
+      "Support",
+      "Initiator",
+      "Durable"
+    ],
+    "tags": [
+      "support",
+      "save",
+      "teamfight",
+      "control"
+    ],
+    "attribute": "str",
+    "localizedName": "树精卫士"
+  },
+  {
+    "id": 84,
+    "name": "Ogre Magi",
+    "cn": "食人魔魔法师",
+    "roles": [
+      "Support",
+      "Durable",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "tank",
+      "control",
+      "buff"
+    ],
+    "attribute": "str",
+    "localizedName": "食人魔魔法师"
+  },
+  {
+    "id": 85,
+    "name": "Undying",
+    "cn": "不朽尸王",
+    "roles": [
+      "Support",
+      "Durable"
+    ],
+    "tags": [
+      "support",
+      "lane",
+      "sustain",
+      "teamfight"
+    ],
+    "attribute": "str",
+    "localizedName": "不朽尸王"
+  },
+  {
+    "id": 86,
+    "name": "Rubick",
+    "cn": "拉比克",
+    "roles": [
+      "Support",
+      "Disabler",
+      "Nuker"
+    ],
+    "tags": [
+      "support",
+      "control",
+      "save",
+      "anti_spell"
+    ],
+    "attribute": "int",
+    "localizedName": "拉比克"
+  },
+  {
+    "id": 87,
+    "name": "Disruptor",
+    "cn": "干扰者",
+    "roles": [
+      "Support",
+      "Disabler",
+      "Nuker"
+    ],
+    "tags": [
+      "support",
+      "control",
+      "silence",
+      "anti_mobile",
+      "teamfight"
+    ],
+    "attribute": "int",
+    "localizedName": "干扰者"
+  },
+  {
+    "id": 88,
+    "name": "Nyx Assassin",
+    "cn": "司夜刺客",
+    "roles": [
+      "Disabler",
+      "Nuker",
+      "Escape"
+    ],
+    "tags": [
+      "support",
+      "catch",
+      "burst",
+      "anti_magic"
+    ],
+    "attribute": "all",
+    "localizedName": "司夜刺客"
+  },
+  {
+    "id": 89,
+    "name": "Naga Siren",
+    "cn": "娜迦海妖",
+    "roles": [
+      "Carry",
+      "Support",
+      "Escape"
+    ],
+    "tags": [
+      "carry",
+      "illusion",
+      "control",
+      "late"
+    ],
+    "attribute": "agi",
+    "localizedName": "娜迦海妖"
+  },
+  {
+    "id": 90,
+    "name": "Keeper of the Light",
+    "cn": "光之守卫",
+    "roles": [
+      "Support",
+      "Nuker"
+    ],
+    "tags": [
+      "support",
+      "clear",
+      "save",
+      "magic"
+    ],
+    "attribute": "int",
+    "localizedName": "光之守卫"
+  },
+  {
+    "id": 91,
+    "name": "Io",
+    "cn": "艾欧",
+    "roles": [
+      "Support",
+      "Escape"
+    ],
+    "tags": [
+      "support",
+      "save",
+      "sustain",
+      "global"
+    ],
+    "attribute": "all",
+    "localizedName": "艾欧"
+  },
+  {
+    "id": 92,
+    "name": "Visage",
+    "cn": "维萨吉",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Durable"
+    ],
+    "tags": [
+      "core",
+      "summon",
+      "tower",
+      "tempo"
+    ],
+    "attribute": "all",
+    "localizedName": "维萨吉"
+  },
+  {
+    "id": 93,
+    "name": "Slark",
+    "cn": "斯拉克",
+    "roles": [
+      "Carry",
+      "Escape"
+    ],
+    "tags": [
+      "carry",
+      "mobile",
+      "late",
+      "dispel",
+      "physical"
+    ],
+    "attribute": "agi",
+    "localizedName": "斯拉克"
+  },
+  {
+    "id": 94,
+    "name": "Medusa",
+    "cn": "美杜莎",
+    "roles": [
+      "Carry",
+      "Durable"
+    ],
+    "tags": [
+      "carry",
+      "late",
+      "tank",
+      "physical"
+    ],
+    "attribute": "agi",
+    "localizedName": "美杜莎"
+  },
+  {
+    "id": 95,
+    "name": "Troll Warlord",
+    "cn": "巨魔战将",
+    "roles": [
+      "Carry",
+      "Pusher"
+    ],
+    "tags": [
+      "carry",
+      "roshan",
+      "physical",
+      "late"
+    ],
+    "attribute": "agi",
+    "localizedName": "巨魔战将"
+  },
+  {
+    "id": 96,
+    "name": "Centaur Warrunner",
+    "cn": "半人马战行者",
+    "roles": [
+      "Durable",
+      "Initiator",
+      "Disabler"
+    ],
+    "tags": [
+      "offlane",
+      "init",
+      "tank",
+      "control"
+    ],
+    "attribute": "str",
+    "localizedName": "半人马战行者"
+  },
+  {
+    "id": 97,
+    "name": "Magnus",
+    "cn": "马格纳斯",
+    "roles": [
+      "Initiator",
+      "Disabler",
+      "Nuker"
+    ],
+    "tags": [
+      "offlane",
+      "init",
+      "teamfight",
+      "bkb_pierce",
+      "buff"
+    ],
+    "attribute": "all",
+    "localizedName": "马格纳斯"
+  },
+  {
+    "id": 98,
+    "name": "Timbersaw",
+    "cn": "伐木机",
+    "roles": [
+      "Durable",
+      "Escape",
+      "Nuker"
+    ],
+    "tags": [
+      "offlane",
+      "tank",
+      "magic",
+      "anti_strength"
+    ],
+    "attribute": "str",
+    "localizedName": "伐木机"
+  },
+  {
+    "id": 99,
+    "name": "Bristleback",
+    "cn": "钢背兽",
+    "roles": [
+      "Carry",
+      "Durable"
+    ],
+    "tags": [
+      "core",
+      "tank",
+      "sustain",
+      "physical"
+    ],
+    "attribute": "str",
+    "localizedName": "钢背兽"
+  },
+  {
+    "id": 100,
+    "name": "Tusk",
+    "cn": "巨牙海民",
+    "roles": [
+      "Support",
+      "Initiator",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "init",
+      "save",
+      "catch"
+    ],
+    "attribute": "str",
+    "localizedName": "巨牙海民"
+  },
+  {
+    "id": 101,
+    "name": "Skywrath Mage",
+    "cn": "天怒法师",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "silence",
+      "burst",
+      "magic"
+    ],
+    "attribute": "int",
+    "localizedName": "天怒法师"
+  },
+  {
+    "id": 102,
+    "name": "Abaddon",
+    "cn": "亚巴顿",
+    "roles": [
+      "Support",
+      "Carry",
+      "Durable"
+    ],
+    "tags": [
+      "support",
+      "save",
+      "sustain",
+      "dispel"
+    ],
+    "attribute": "all",
+    "localizedName": "亚巴顿"
+  },
+  {
+    "id": 103,
+    "name": "Elder Titan",
+    "cn": "上古巨神",
+    "roles": [
+      "Initiator",
+      "Disabler",
+      "Durable"
+    ],
+    "tags": [
+      "support",
+      "teamfight",
+      "control",
+      "anti_tank"
+    ],
+    "attribute": "str",
+    "localizedName": "上古巨神"
+  },
+  {
+    "id": 104,
+    "name": "Legion Commander",
+    "cn": "军团指挥官",
+    "roles": [
+      "Carry",
+      "Disabler",
+      "Durable"
+    ],
+    "tags": [
+      "offlane",
+      "init",
+      "dispel",
+      "physical",
+      "catch"
+    ],
+    "attribute": "str",
+    "localizedName": "军团指挥官"
+  },
+  {
+    "id": 105,
+    "name": "Techies",
+    "cn": "工程师",
+    "roles": [
+      "Nuker",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "control",
+      "magic",
+      "anti_push"
+    ],
+    "attribute": "all",
+    "localizedName": "工程师"
+  },
+  {
+    "id": 106,
+    "name": "Ember Spirit",
+    "cn": "灰烬之灵",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Nuker"
+    ],
+    "tags": [
+      "mid",
+      "mobile",
+      "magic",
+      "physical"
+    ],
+    "attribute": "agi",
+    "localizedName": "灰烬之灵"
+  },
+  {
+    "id": 107,
+    "name": "Earth Spirit",
+    "cn": "大地之灵",
+    "roles": [
+      "Support",
+      "Initiator",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "init",
+      "silence",
+      "control",
+      "mobile"
+    ],
+    "attribute": "str",
+    "localizedName": "大地之灵"
+  },
+  {
+    "id": 108,
+    "name": "Underlord",
+    "cn": "孽主",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler"
+    ],
+    "tags": [
+      "offlane",
+      "tank",
+      "clear",
+      "control",
+      "global"
+    ],
+    "attribute": "str",
+    "localizedName": "孽主"
+  },
+  {
+    "id": 109,
+    "name": "Terrorblade",
+    "cn": "恐怖利刃",
+    "roles": [
+      "Carry",
+      "Pusher"
+    ],
+    "tags": [
+      "carry",
+      "illusion",
+      "tower",
+      "late",
+      "physical"
+    ],
+    "attribute": "agi",
+    "localizedName": "恐怖利刃"
+  },
+  {
+    "id": 110,
+    "name": "Phoenix",
+    "cn": "凤凰",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Initiator"
+    ],
+    "tags": [
+      "support",
+      "teamfight",
+      "sustain",
+      "magic",
+      "anti_physical"
+    ],
+    "attribute": "all",
+    "localizedName": "凤凰"
+  },
+  {
+    "id": 111,
+    "name": "Oracle",
+    "cn": "神谕者",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "save",
+      "dispel",
+      "anti_burst"
+    ],
+    "attribute": "int",
+    "localizedName": "神谕者"
+  },
+  {
+    "id": 112,
+    "name": "Winter Wyvern",
+    "cn": "寒冬飞龙",
+    "roles": [
+      "Support",
+      "Disabler",
+      "Nuker"
+    ],
+    "tags": [
+      "support",
+      "save",
+      "teamfight",
+      "anti_physical"
+    ],
+    "attribute": "all",
+    "localizedName": "寒冬飞龙"
+  },
+  {
+    "id": 113,
+    "name": "Arc Warden",
+    "cn": "天穹守望者",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Nuker"
+    ],
+    "tags": [
+      "carry",
+      "late",
+      "tower",
+      "magic"
+    ],
+    "attribute": "agi",
+    "localizedName": "天穹守望者"
+  },
+  {
+    "id": 114,
+    "name": "Monkey King",
+    "cn": "齐天大圣",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Disabler"
+    ],
+    "tags": [
+      "carry",
+      "teamfight",
+      "physical",
+      "lane"
+    ],
+    "attribute": "agi",
+    "localizedName": "齐天大圣"
+  },
+  {
+    "id": 119,
+    "name": "Dark Willow",
+    "cn": "邪影芳灵",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "control",
+      "burst",
+      "magic"
+    ],
+    "attribute": "all",
+    "localizedName": "邪影芳灵"
+  },
+  {
+    "id": 120,
+    "name": "Pangolier",
+    "cn": "石鳞剑士",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Disabler"
+    ],
+    "tags": [
+      "offlane",
+      "init",
+      "teamfight",
+      "dispel",
+      "mobile"
+    ],
+    "attribute": "all",
+    "localizedName": "石鳞剑士"
+  },
+  {
+    "id": 121,
+    "name": "Grimstroke",
+    "cn": "天涯墨客",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "silence",
+      "teamfight",
+      "control"
+    ],
+    "attribute": "int",
+    "localizedName": "天涯墨客"
+  },
+  {
+    "id": 123,
+    "name": "Hoodwink",
+    "cn": "森海飞霞",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "catch",
+      "break",
+      "burst"
+    ],
+    "attribute": "agi",
+    "localizedName": "森海飞霞"
+  },
+  {
+    "id": 126,
+    "name": "Void Spirit",
+    "cn": "虚无之灵",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Nuker"
+    ],
+    "tags": [
+      "mid",
+      "mobile",
+      "magic",
+      "catch"
+    ],
+    "attribute": "all",
+    "localizedName": "虚无之灵"
+  },
+  {
+    "id": 128,
+    "name": "Snapfire",
+    "cn": "电炎绝手",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "teamfight",
+      "magic",
+      "save"
+    ],
+    "attribute": "all",
+    "localizedName": "电炎绝手"
+  },
+  {
+    "id": 129,
+    "name": "Mars",
+    "cn": "玛尔斯",
+    "roles": [
+      "Carry",
+      "Initiator",
+      "Disabler"
+    ],
+    "tags": [
+      "offlane",
+      "init",
+      "teamfight",
+      "tank",
+      "control"
+    ],
+    "attribute": "str",
+    "localizedName": "玛尔斯"
+  },
+  {
+    "id": 135,
+    "name": "Dawnbreaker",
+    "cn": "破晓辰星",
+    "roles": [
+      "Carry",
+      "Durable"
+    ],
+    "tags": [
+      "core",
+      "global",
+      "sustain",
+      "teamfight",
+      "physical"
+    ],
+    "attribute": "str",
+    "localizedName": "破晓辰星"
+  },
+  {
+    "id": 136,
+    "name": "Marci",
+    "cn": "玛西",
+    "roles": [
+      "Support",
+      "Carry",
+      "Initiator"
+    ],
+    "tags": [
+      "support",
+      "init",
+      "save",
+      "physical",
+      "burst"
+    ],
+    "attribute": "all",
+    "localizedName": "玛西"
+  },
+  {
+    "id": 137,
+    "name": "Primal Beast",
+    "cn": "兽",
+    "roles": [
+      "Initiator",
+      "Durable",
+      "Disabler"
+    ],
+    "tags": [
+      "offlane",
+      "init",
+      "tank",
+      "control",
+      "magic"
+    ],
+    "attribute": "str",
+    "localizedName": "兽"
+  },
+  {
+    "id": 138,
+    "name": "Muerta",
+    "cn": "琼英碧灵",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Disabler"
+    ],
+    "tags": [
+      "carry",
+      "magic",
+      "physical",
+      "teamfight"
+    ],
+    "attribute": "int",
+    "localizedName": "琼英碧灵"
+  },
+  {
+    "id": 145,
+    "name": "Ringmaster",
+    "cn": "司环术士",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler"
+    ],
+    "tags": [
+      "support",
+      "save",
+      "control",
+      "magic"
+    ],
+    "attribute": "int",
+    "localizedName": "司环术士"
+  }
+]

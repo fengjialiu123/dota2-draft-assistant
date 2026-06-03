@@ -1,0 +1,1634 @@
+[
+  {
+    "id": 1,
+    "name": "antimage",
+    "localizedName": "敌法师",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Nuker"
+    ],
+    "attribute": "agi",
+    "cn": "敌法师"
+  },
+  {
+    "id": 2,
+    "name": "axe",
+    "localizedName": "斧王",
+    "roles": [
+      "Initiator",
+      "Durable",
+      "Disabler",
+      "Carry"
+    ],
+    "attribute": "str",
+    "cn": "斧王"
+  },
+  {
+    "id": 3,
+    "name": "bane",
+    "localizedName": "祸乱之源",
+    "roles": [
+      "Support",
+      "Disabler",
+      "Nuker",
+      "Durable"
+    ],
+    "attribute": "allAttr",
+    "cn": "祸乱之源"
+  },
+  {
+    "id": 4,
+    "name": "bloodseeker",
+    "localizedName": "血魔",
+    "roles": [
+      "Carry",
+      "Disabler",
+      "Nuker",
+      "Initiator"
+    ],
+    "attribute": "agi",
+    "cn": "血魔"
+  },
+  {
+    "id": 5,
+    "name": "crystal_maiden",
+    "localizedName": "水晶室女",
+    "roles": [
+      "Support",
+      "Disabler",
+      "Nuker"
+    ],
+    "attribute": "int",
+    "cn": "水晶室女"
+  },
+  {
+    "id": 6,
+    "name": "drow_ranger",
+    "localizedName": "卓尔游侠",
+    "roles": [
+      "Carry",
+      "Disabler",
+      "Pusher"
+    ],
+    "attribute": "agi",
+    "cn": "卓尔游侠"
+  },
+  {
+    "id": 7,
+    "name": "earthshaker",
+    "localizedName": "撼地者",
+    "roles": [
+      "Support",
+      "Initiator",
+      "Disabler",
+      "Nuker"
+    ],
+    "attribute": "str",
+    "cn": "撼地者"
+  },
+  {
+    "id": 8,
+    "name": "juggernaut",
+    "localizedName": "主宰",
+    "roles": [
+      "Carry",
+      "Pusher",
+      "Escape"
+    ],
+    "attribute": "agi",
+    "cn": "主宰"
+  },
+  {
+    "id": 9,
+    "name": "mirana",
+    "localizedName": "米拉娜",
+    "roles": [
+      "Carry",
+      "Support",
+      "Escape",
+      "Nuker",
+      "Disabler"
+    ],
+    "attribute": "agi",
+    "cn": "米拉娜"
+  },
+  {
+    "id": 10,
+    "name": "morphling",
+    "localizedName": "变体精灵",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Durable",
+      "Nuker",
+      "Disabler"
+    ],
+    "attribute": "agi",
+    "cn": "变体精灵"
+  },
+  {
+    "id": 11,
+    "name": "nevermore",
+    "localizedName": "影魔",
+    "roles": [
+      "Carry",
+      "Nuker"
+    ],
+    "attribute": "agi",
+    "cn": "影魔"
+  },
+  {
+    "id": 12,
+    "name": "phantom_lancer",
+    "localizedName": "幻影长矛手",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Pusher",
+      "Nuker"
+    ],
+    "attribute": "agi",
+    "cn": "幻影长矛手"
+  },
+  {
+    "id": 13,
+    "name": "puck",
+    "localizedName": "帕克",
+    "roles": [
+      "Initiator",
+      "Disabler",
+      "Escape",
+      "Nuker"
+    ],
+    "attribute": "int",
+    "cn": "帕克"
+  },
+  {
+    "id": 14,
+    "name": "pudge",
+    "localizedName": "帕吉",
+    "roles": [
+      "Disabler",
+      "Initiator",
+      "Durable",
+      "Nuker"
+    ],
+    "attribute": "str",
+    "cn": "帕吉"
+  },
+  {
+    "id": 15,
+    "name": "razor",
+    "localizedName": "剃刀",
+    "roles": [
+      "Carry",
+      "Durable",
+      "Nuker",
+      "Pusher"
+    ],
+    "attribute": "agi",
+    "cn": "剃刀"
+  },
+  {
+    "id": 16,
+    "name": "sand_king",
+    "localizedName": "沙王",
+    "roles": [
+      "Initiator",
+      "Disabler",
+      "Support",
+      "Nuker",
+      "Escape"
+    ],
+    "attribute": "allAttr",
+    "cn": "沙王"
+  },
+  {
+    "id": 17,
+    "name": "storm_spirit",
+    "localizedName": "风暴之灵",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Nuker",
+      "Initiator",
+      "Disabler"
+    ],
+    "attribute": "int",
+    "cn": "风暴之灵"
+  },
+  {
+    "id": 18,
+    "name": "sven",
+    "localizedName": "斯温",
+    "roles": [
+      "Carry",
+      "Disabler",
+      "Initiator",
+      "Durable",
+      "Nuker"
+    ],
+    "attribute": "str",
+    "cn": "斯温"
+  },
+  {
+    "id": 19,
+    "name": "tiny",
+    "localizedName": "小小",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Pusher",
+      "Initiator",
+      "Durable",
+      "Disabler"
+    ],
+    "attribute": "str",
+    "cn": "小小"
+  },
+  {
+    "id": 20,
+    "name": "vengefulspirit",
+    "localizedName": "复仇之魂",
+    "roles": [
+      "Support",
+      "Initiator",
+      "Disabler",
+      "Nuker",
+      "Escape"
+    ],
+    "attribute": "agi",
+    "cn": "复仇之魂"
+  },
+  {
+    "id": 21,
+    "name": "windrunner",
+    "localizedName": "风行者",
+    "roles": [
+      "Carry",
+      "Support",
+      "Disabler",
+      "Escape",
+      "Nuker"
+    ],
+    "attribute": "allAttr",
+    "cn": "风行者"
+  },
+  {
+    "id": 22,
+    "name": "zuus",
+    "localizedName": "宙斯",
+    "roles": [
+      "Nuker",
+      "Carry"
+    ],
+    "attribute": "int",
+    "cn": "宙斯"
+  },
+  {
+    "id": 23,
+    "name": "kunkka",
+    "localizedName": "昆卡",
+    "roles": [
+      "Carry",
+      "Support",
+      "Disabler",
+      "Initiator",
+      "Durable",
+      "Nuker"
+    ],
+    "attribute": "str",
+    "cn": "昆卡"
+  },
+  {
+    "id": 25,
+    "name": "lina",
+    "localizedName": "莉娜",
+    "roles": [
+      "Support",
+      "Carry",
+      "Nuker",
+      "Disabler"
+    ],
+    "attribute": "int",
+    "cn": "莉娜"
+  },
+  {
+    "id": 26,
+    "name": "lion",
+    "localizedName": "莱恩",
+    "roles": [
+      "Support",
+      "Disabler",
+      "Nuker",
+      "Initiator"
+    ],
+    "attribute": "int",
+    "cn": "莱恩"
+  },
+  {
+    "id": 27,
+    "name": "shadow_shaman",
+    "localizedName": "暗影萨满",
+    "roles": [
+      "Support",
+      "Pusher",
+      "Disabler",
+      "Nuker",
+      "Initiator"
+    ],
+    "attribute": "int",
+    "cn": "暗影萨满"
+  },
+  {
+    "id": 28,
+    "name": "slardar",
+    "localizedName": "斯拉达",
+    "roles": [
+      "Carry",
+      "Durable",
+      "Initiator",
+      "Disabler",
+      "Escape"
+    ],
+    "attribute": "str",
+    "cn": "斯拉达"
+  },
+  {
+    "id": 29,
+    "name": "tidehunter",
+    "localizedName": "潮汐猎人",
+    "roles": [
+      "Initiator",
+      "Durable",
+      "Disabler",
+      "Nuker",
+      "Carry"
+    ],
+    "attribute": "str",
+    "cn": "潮汐猎人"
+  },
+  {
+    "id": 30,
+    "name": "witch_doctor",
+    "localizedName": "巫医",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler"
+    ],
+    "attribute": "int",
+    "cn": "巫医"
+  },
+  {
+    "id": 31,
+    "name": "lich",
+    "localizedName": "巫妖",
+    "roles": [
+      "Support",
+      "Nuker"
+    ],
+    "attribute": "int",
+    "cn": "巫妖"
+  },
+  {
+    "id": 32,
+    "name": "riki",
+    "localizedName": "力丸",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Disabler"
+    ],
+    "attribute": "agi",
+    "cn": "力丸"
+  },
+  {
+    "id": 33,
+    "name": "enigma",
+    "localizedName": "谜团",
+    "roles": [
+      "Disabler",
+      "Initiator",
+      "Pusher"
+    ],
+    "attribute": "allAttr",
+    "cn": "谜团"
+  },
+  {
+    "id": 34,
+    "name": "tinker",
+    "localizedName": "修补匠",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Pusher"
+    ],
+    "attribute": "int",
+    "cn": "修补匠"
+  },
+  {
+    "id": 35,
+    "name": "sniper",
+    "localizedName": "狙击手",
+    "roles": [
+      "Carry",
+      "Nuker"
+    ],
+    "attribute": "agi",
+    "cn": "狙击手"
+  },
+  {
+    "id": 36,
+    "name": "necrolyte",
+    "localizedName": "瘟疫法师",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Durable",
+      "Disabler"
+    ],
+    "attribute": "int",
+    "cn": "瘟疫法师"
+  },
+  {
+    "id": 37,
+    "name": "warlock",
+    "localizedName": "术士",
+    "roles": [
+      "Support",
+      "Initiator",
+      "Disabler"
+    ],
+    "attribute": "int",
+    "cn": "术士"
+  },
+  {
+    "id": 38,
+    "name": "beastmaster",
+    "localizedName": "兽王",
+    "roles": [
+      "Initiator",
+      "Disabler",
+      "Durable",
+      "Nuker"
+    ],
+    "attribute": "allAttr",
+    "cn": "兽王"
+  },
+  {
+    "id": 39,
+    "name": "queenofpain",
+    "localizedName": "痛苦女王",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Escape"
+    ],
+    "attribute": "int",
+    "cn": "痛苦女王"
+  },
+  {
+    "id": 40,
+    "name": "venomancer",
+    "localizedName": "剧毒术士",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Initiator",
+      "Pusher",
+      "Disabler"
+    ],
+    "attribute": "allAttr",
+    "cn": "剧毒术士"
+  },
+  {
+    "id": 41,
+    "name": "faceless_void",
+    "localizedName": "虚空假面",
+    "roles": [
+      "Carry",
+      "Initiator",
+      "Disabler",
+      "Escape",
+      "Durable"
+    ],
+    "attribute": "agi",
+    "cn": "虚空假面"
+  },
+  {
+    "id": 42,
+    "name": "skeleton_king",
+    "localizedName": "冥魂大帝",
+    "roles": [
+      "Carry",
+      "Support",
+      "Durable",
+      "Disabler",
+      "Initiator"
+    ],
+    "attribute": "str",
+    "cn": "冥魂大帝"
+  },
+  {
+    "id": 43,
+    "name": "death_prophet",
+    "localizedName": "死亡先知",
+    "roles": [
+      "Carry",
+      "Pusher",
+      "Nuker",
+      "Disabler"
+    ],
+    "attribute": "allAttr",
+    "cn": "死亡先知"
+  },
+  {
+    "id": 44,
+    "name": "phantom_assassin",
+    "localizedName": "幻影刺客",
+    "roles": [
+      "Carry",
+      "Escape"
+    ],
+    "attribute": "agi",
+    "cn": "幻影刺客"
+  },
+  {
+    "id": 45,
+    "name": "pugna",
+    "localizedName": "帕格纳",
+    "roles": [
+      "Nuker",
+      "Pusher"
+    ],
+    "attribute": "int",
+    "cn": "帕格纳"
+  },
+  {
+    "id": 46,
+    "name": "templar_assassin",
+    "localizedName": "圣堂刺客",
+    "roles": [
+      "Carry",
+      "Escape"
+    ],
+    "attribute": "agi",
+    "cn": "圣堂刺客"
+  },
+  {
+    "id": 47,
+    "name": "viper",
+    "localizedName": "冥界亚龙",
+    "roles": [
+      "Carry",
+      "Durable",
+      "Initiator",
+      "Disabler"
+    ],
+    "attribute": "agi",
+    "cn": "冥界亚龙"
+  },
+  {
+    "id": 48,
+    "name": "luna",
+    "localizedName": "露娜",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Pusher"
+    ],
+    "attribute": "agi",
+    "cn": "露娜"
+  },
+  {
+    "id": 49,
+    "name": "dragon_knight",
+    "localizedName": "龙骑士",
+    "roles": [
+      "Carry",
+      "Pusher",
+      "Durable",
+      "Disabler",
+      "Initiator",
+      "Nuker"
+    ],
+    "attribute": "str",
+    "cn": "龙骑士"
+  },
+  {
+    "id": 50,
+    "name": "dazzle",
+    "localizedName": "戴泽",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler"
+    ],
+    "attribute": "allAttr",
+    "cn": "戴泽"
+  },
+  {
+    "id": 51,
+    "name": "rattletrap",
+    "localizedName": "发条技师",
+    "roles": [
+      "Initiator",
+      "Disabler",
+      "Durable",
+      "Nuker"
+    ],
+    "attribute": "str",
+    "cn": "发条技师"
+  },
+  {
+    "id": 52,
+    "name": "leshrac",
+    "localizedName": "拉席克",
+    "roles": [
+      "Carry",
+      "Support",
+      "Nuker",
+      "Pusher",
+      "Disabler"
+    ],
+    "attribute": "int",
+    "cn": "拉席克"
+  },
+  {
+    "id": 53,
+    "name": "furion",
+    "localizedName": "先知",
+    "roles": [
+      "Carry",
+      "Pusher",
+      "Escape",
+      "Nuker"
+    ],
+    "attribute": "allAttr",
+    "cn": "先知"
+  },
+  {
+    "id": 54,
+    "name": "life_stealer",
+    "localizedName": "噬魂鬼",
+    "roles": [
+      "Carry",
+      "Durable",
+      "Escape",
+      "Disabler"
+    ],
+    "attribute": "str",
+    "cn": "噬魂鬼"
+  },
+  {
+    "id": 55,
+    "name": "dark_seer",
+    "localizedName": "黑暗贤者",
+    "roles": [
+      "Initiator",
+      "Escape",
+      "Disabler"
+    ],
+    "attribute": "int",
+    "cn": "黑暗贤者"
+  },
+  {
+    "id": 56,
+    "name": "clinkz",
+    "localizedName": "克林克兹",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Pusher"
+    ],
+    "attribute": "agi",
+    "cn": "克林克兹"
+  },
+  {
+    "id": 57,
+    "name": "omniknight",
+    "localizedName": "全能骑士",
+    "roles": [
+      "Support",
+      "Durable",
+      "Nuker"
+    ],
+    "attribute": "str",
+    "cn": "全能骑士"
+  },
+  {
+    "id": 58,
+    "name": "enchantress",
+    "localizedName": "魅惑魔女",
+    "roles": [
+      "Support",
+      "Pusher",
+      "Durable",
+      "Disabler"
+    ],
+    "attribute": "int",
+    "cn": "魅惑魔女"
+  },
+  {
+    "id": 59,
+    "name": "huskar",
+    "localizedName": "哈斯卡",
+    "roles": [
+      "Carry",
+      "Durable",
+      "Initiator"
+    ],
+    "attribute": "str",
+    "cn": "哈斯卡"
+  },
+  {
+    "id": 60,
+    "name": "night_stalker",
+    "localizedName": "暗夜魔王",
+    "roles": [
+      "Carry",
+      "Initiator",
+      "Durable",
+      "Disabler",
+      "Nuker"
+    ],
+    "attribute": "str",
+    "cn": "暗夜魔王"
+  },
+  {
+    "id": 61,
+    "name": "broodmother",
+    "localizedName": "育母蜘蛛",
+    "roles": [
+      "Carry",
+      "Pusher",
+      "Escape",
+      "Nuker"
+    ],
+    "attribute": "agi",
+    "cn": "育母蜘蛛"
+  },
+  {
+    "id": 62,
+    "name": "bounty_hunter",
+    "localizedName": "赏金猎人",
+    "roles": [
+      "Escape",
+      "Nuker"
+    ],
+    "attribute": "agi",
+    "cn": "赏金猎人"
+  },
+  {
+    "id": 63,
+    "name": "weaver",
+    "localizedName": "编织者",
+    "roles": [
+      "Carry",
+      "Escape"
+    ],
+    "attribute": "agi",
+    "cn": "编织者"
+  },
+  {
+    "id": 64,
+    "name": "jakiro",
+    "localizedName": "杰奇洛",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Pusher",
+      "Disabler"
+    ],
+    "attribute": "int",
+    "cn": "杰奇洛"
+  },
+  {
+    "id": 65,
+    "name": "batrider",
+    "localizedName": "蝙蝠骑士",
+    "roles": [
+      "Initiator",
+      "Disabler",
+      "Escape"
+    ],
+    "attribute": "allAttr",
+    "cn": "蝙蝠骑士"
+  },
+  {
+    "id": 66,
+    "name": "chen",
+    "localizedName": "陈",
+    "roles": [
+      "Support",
+      "Pusher"
+    ],
+    "attribute": "int",
+    "cn": "陈"
+  },
+  {
+    "id": 67,
+    "name": "spectre",
+    "localizedName": "幽鬼",
+    "roles": [
+      "Carry",
+      "Durable",
+      "Escape"
+    ],
+    "attribute": "agi",
+    "cn": "幽鬼"
+  },
+  {
+    "id": 68,
+    "name": "ancient_apparition",
+    "localizedName": "远古冰魄",
+    "roles": [
+      "Support",
+      "Disabler",
+      "Nuker"
+    ],
+    "attribute": "int",
+    "cn": "远古冰魄"
+  },
+  {
+    "id": 69,
+    "name": "doom_bringer",
+    "localizedName": "末日使者",
+    "roles": [
+      "Carry",
+      "Disabler",
+      "Initiator",
+      "Durable",
+      "Nuker"
+    ],
+    "attribute": "str",
+    "cn": "末日使者"
+  },
+  {
+    "id": 70,
+    "name": "ursa",
+    "localizedName": "熊战士",
+    "roles": [
+      "Carry",
+      "Durable",
+      "Disabler"
+    ],
+    "attribute": "agi",
+    "cn": "熊战士"
+  },
+  {
+    "id": 71,
+    "name": "spirit_breaker",
+    "localizedName": "裂魂人",
+    "roles": [
+      "Carry",
+      "Initiator",
+      "Disabler",
+      "Durable",
+      "Escape"
+    ],
+    "attribute": "str",
+    "cn": "裂魂人"
+  },
+  {
+    "id": 72,
+    "name": "gyrocopter",
+    "localizedName": "矮人直升机",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Disabler"
+    ],
+    "attribute": "agi",
+    "cn": "矮人直升机"
+  },
+  {
+    "id": 73,
+    "name": "alchemist",
+    "localizedName": "炼金术士",
+    "roles": [
+      "Carry",
+      "Support",
+      "Durable",
+      "Disabler",
+      "Initiator",
+      "Nuker"
+    ],
+    "attribute": "str",
+    "cn": "炼金术士"
+  },
+  {
+    "id": 74,
+    "name": "invoker",
+    "localizedName": "祈求者",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Disabler",
+      "Escape",
+      "Pusher"
+    ],
+    "attribute": "int",
+    "cn": "祈求者"
+  },
+  {
+    "id": 75,
+    "name": "silencer",
+    "localizedName": "沉默术士",
+    "roles": [
+      "Carry",
+      "Support",
+      "Disabler",
+      "Initiator",
+      "Nuker"
+    ],
+    "attribute": "int",
+    "cn": "沉默术士"
+  },
+  {
+    "id": 76,
+    "name": "obsidian_destroyer",
+    "localizedName": "殁境神蚀者",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Disabler"
+    ],
+    "attribute": "int",
+    "cn": "殁境神蚀者"
+  },
+  {
+    "id": 77,
+    "name": "lycan",
+    "localizedName": "狼人",
+    "roles": [
+      "Carry",
+      "Pusher",
+      "Durable",
+      "Escape"
+    ],
+    "attribute": "str",
+    "cn": "狼人"
+  },
+  {
+    "id": 78,
+    "name": "brewmaster",
+    "localizedName": "酒仙",
+    "roles": [
+      "Carry",
+      "Initiator",
+      "Durable",
+      "Disabler",
+      "Nuker"
+    ],
+    "attribute": "allAttr",
+    "cn": "酒仙"
+  },
+  {
+    "id": 79,
+    "name": "shadow_demon",
+    "localizedName": "暗影恶魔",
+    "roles": [
+      "Support",
+      "Disabler",
+      "Initiator",
+      "Nuker"
+    ],
+    "attribute": "int",
+    "cn": "暗影恶魔"
+  },
+  {
+    "id": 80,
+    "name": "lone_druid",
+    "localizedName": "德鲁伊",
+    "roles": [
+      "Carry",
+      "Pusher",
+      "Durable"
+    ],
+    "attribute": "agi",
+    "cn": "德鲁伊"
+  },
+  {
+    "id": 81,
+    "name": "chaos_knight",
+    "localizedName": "混沌骑士",
+    "roles": [
+      "Carry",
+      "Disabler",
+      "Durable",
+      "Pusher",
+      "Initiator"
+    ],
+    "attribute": "str",
+    "cn": "混沌骑士"
+  },
+  {
+    "id": 82,
+    "name": "meepo",
+    "localizedName": "米波",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Nuker",
+      "Disabler",
+      "Initiator",
+      "Pusher"
+    ],
+    "attribute": "agi",
+    "cn": "米波"
+  },
+  {
+    "id": 83,
+    "name": "treant",
+    "localizedName": "树精卫士",
+    "roles": [
+      "Support",
+      "Initiator",
+      "Durable",
+      "Disabler",
+      "Escape"
+    ],
+    "attribute": "str",
+    "cn": "树精卫士"
+  },
+  {
+    "id": 84,
+    "name": "ogre_magi",
+    "localizedName": "食人魔魔法师",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler",
+      "Durable",
+      "Initiator"
+    ],
+    "attribute": "str",
+    "cn": "食人魔魔法师"
+  },
+  {
+    "id": 85,
+    "name": "undying",
+    "localizedName": "不朽尸王",
+    "roles": [
+      "Support",
+      "Durable",
+      "Disabler",
+      "Nuker"
+    ],
+    "attribute": "str",
+    "cn": "不朽尸王"
+  },
+  {
+    "id": 86,
+    "name": "rubick",
+    "localizedName": "拉比克",
+    "roles": [
+      "Support",
+      "Disabler",
+      "Nuker"
+    ],
+    "attribute": "int",
+    "cn": "拉比克"
+  },
+  {
+    "id": 87,
+    "name": "disruptor",
+    "localizedName": "干扰者",
+    "roles": [
+      "Support",
+      "Disabler",
+      "Nuker",
+      "Initiator"
+    ],
+    "attribute": "int",
+    "cn": "干扰者"
+  },
+  {
+    "id": 88,
+    "name": "nyx_assassin",
+    "localizedName": "司夜刺客",
+    "roles": [
+      "Disabler",
+      "Nuker",
+      "Initiator",
+      "Escape"
+    ],
+    "attribute": "allAttr",
+    "cn": "司夜刺客"
+  },
+  {
+    "id": 89,
+    "name": "naga_siren",
+    "localizedName": "娜迦海妖",
+    "roles": [
+      "Carry",
+      "Support",
+      "Pusher",
+      "Disabler",
+      "Initiator",
+      "Escape"
+    ],
+    "attribute": "agi",
+    "cn": "娜迦海妖"
+  },
+  {
+    "id": 90,
+    "name": "keeper_of_the_light",
+    "localizedName": "光之守卫",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler"
+    ],
+    "attribute": "int",
+    "cn": "光之守卫"
+  },
+  {
+    "id": 91,
+    "name": "wisp",
+    "localizedName": "艾欧",
+    "roles": [
+      "Support",
+      "Escape",
+      "Nuker"
+    ],
+    "attribute": "allAttr",
+    "cn": "艾欧"
+  },
+  {
+    "id": 92,
+    "name": "visage",
+    "localizedName": "维萨吉",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Durable",
+      "Disabler",
+      "Pusher"
+    ],
+    "attribute": "allAttr",
+    "cn": "维萨吉"
+  },
+  {
+    "id": 93,
+    "name": "slark",
+    "localizedName": "斯拉克",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Disabler",
+      "Nuker"
+    ],
+    "attribute": "agi",
+    "cn": "斯拉克"
+  },
+  {
+    "id": 94,
+    "name": "medusa",
+    "localizedName": "美杜莎",
+    "roles": [
+      "Carry",
+      "Disabler",
+      "Durable"
+    ],
+    "attribute": "agi",
+    "cn": "美杜莎"
+  },
+  {
+    "id": 95,
+    "name": "troll_warlord",
+    "localizedName": "巨魔战将",
+    "roles": [
+      "Carry",
+      "Pusher",
+      "Disabler",
+      "Durable"
+    ],
+    "attribute": "agi",
+    "cn": "巨魔战将"
+  },
+  {
+    "id": 96,
+    "name": "centaur",
+    "localizedName": "半人马战行者",
+    "roles": [
+      "Durable",
+      "Initiator",
+      "Disabler",
+      "Nuker",
+      "Escape"
+    ],
+    "attribute": "str",
+    "cn": "半人马战行者"
+  },
+  {
+    "id": 97,
+    "name": "magnataur",
+    "localizedName": "马格纳斯",
+    "roles": [
+      "Initiator",
+      "Disabler",
+      "Nuker",
+      "Escape"
+    ],
+    "attribute": "allAttr",
+    "cn": "马格纳斯"
+  },
+  {
+    "id": 98,
+    "name": "shredder",
+    "localizedName": "伐木机",
+    "roles": [
+      "Nuker",
+      "Durable",
+      "Escape"
+    ],
+    "attribute": "str",
+    "cn": "伐木机"
+  },
+  {
+    "id": 99,
+    "name": "bristleback",
+    "localizedName": "钢背兽",
+    "roles": [
+      "Carry",
+      "Durable",
+      "Initiator",
+      "Nuker"
+    ],
+    "attribute": "str",
+    "cn": "钢背兽"
+  },
+  {
+    "id": 100,
+    "name": "tusk",
+    "localizedName": "巨牙海民",
+    "roles": [
+      "Initiator",
+      "Disabler",
+      "Nuker"
+    ],
+    "attribute": "str",
+    "cn": "巨牙海民"
+  },
+  {
+    "id": 101,
+    "name": "skywrath_mage",
+    "localizedName": "天怒法师",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler"
+    ],
+    "attribute": "int",
+    "cn": "天怒法师"
+  },
+  {
+    "id": 102,
+    "name": "abaddon",
+    "localizedName": "亚巴顿",
+    "roles": [
+      "Support",
+      "Carry",
+      "Durable"
+    ],
+    "attribute": "allAttr",
+    "cn": "亚巴顿"
+  },
+  {
+    "id": 103,
+    "name": "elder_titan",
+    "localizedName": "上古巨神",
+    "roles": [
+      "Initiator",
+      "Disabler",
+      "Nuker",
+      "Durable"
+    ],
+    "attribute": "str",
+    "cn": "上古巨神"
+  },
+  {
+    "id": 104,
+    "name": "legion_commander",
+    "localizedName": "军团指挥官",
+    "roles": [
+      "Carry",
+      "Disabler",
+      "Initiator",
+      "Durable",
+      "Nuker"
+    ],
+    "attribute": "str",
+    "cn": "军团指挥官"
+  },
+  {
+    "id": 105,
+    "name": "techies",
+    "localizedName": "工程师",
+    "roles": [
+      "Nuker",
+      "Disabler"
+    ],
+    "attribute": "allAttr",
+    "cn": "工程师"
+  },
+  {
+    "id": 106,
+    "name": "ember_spirit",
+    "localizedName": "灰烬之灵",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Nuker",
+      "Disabler",
+      "Initiator"
+    ],
+    "attribute": "agi",
+    "cn": "灰烬之灵"
+  },
+  {
+    "id": 107,
+    "name": "earth_spirit",
+    "localizedName": "大地之灵",
+    "roles": [
+      "Nuker",
+      "Escape",
+      "Disabler",
+      "Initiator",
+      "Durable"
+    ],
+    "attribute": "str",
+    "cn": "大地之灵"
+  },
+  {
+    "id": 108,
+    "name": "abyssal_underlord",
+    "localizedName": "孽主",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler",
+      "Durable",
+      "Escape"
+    ],
+    "attribute": "str",
+    "cn": "孽主"
+  },
+  {
+    "id": 109,
+    "name": "terrorblade",
+    "localizedName": "恐怖利刃",
+    "roles": [
+      "Carry",
+      "Pusher",
+      "Nuker"
+    ],
+    "attribute": "agi",
+    "cn": "恐怖利刃"
+  },
+  {
+    "id": 110,
+    "name": "phoenix",
+    "localizedName": "凤凰",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Initiator",
+      "Escape",
+      "Disabler"
+    ],
+    "attribute": "str",
+    "cn": "凤凰"
+  },
+  {
+    "id": 111,
+    "name": "oracle",
+    "localizedName": "神谕者",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler",
+      "Escape"
+    ],
+    "attribute": "int",
+    "cn": "神谕者"
+  },
+  {
+    "id": 112,
+    "name": "winter_wyvern",
+    "localizedName": "寒冬飞龙",
+    "roles": [
+      "Support",
+      "Disabler",
+      "Nuker"
+    ],
+    "attribute": "int",
+    "cn": "寒冬飞龙"
+  },
+  {
+    "id": 113,
+    "name": "arc_warden",
+    "localizedName": "天穹守望者",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Nuker"
+    ],
+    "attribute": "allAttr",
+    "cn": "天穹守望者"
+  },
+  {
+    "id": 114,
+    "name": "monkey_king",
+    "localizedName": "齐天大圣",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Disabler",
+      "Initiator"
+    ],
+    "attribute": "agi",
+    "cn": "齐天大圣"
+  },
+  {
+    "id": 119,
+    "name": "dark_willow",
+    "localizedName": "邪影芳灵",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler",
+      "Escape"
+    ],
+    "attribute": "int",
+    "cn": "邪影芳灵"
+  },
+  {
+    "id": 120,
+    "name": "pangolier",
+    "localizedName": "石鳞剑士",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Disabler",
+      "Durable",
+      "Escape",
+      "Initiator"
+    ],
+    "attribute": "allAttr",
+    "cn": "石鳞剑士"
+  },
+  {
+    "id": 121,
+    "name": "grimstroke",
+    "localizedName": "天涯墨客",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler",
+      "Escape"
+    ],
+    "attribute": "int",
+    "cn": "天涯墨客"
+  },
+  {
+    "id": 123,
+    "name": "hoodwink",
+    "localizedName": "森海飞霞",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Escape",
+      "Disabler"
+    ],
+    "attribute": "agi",
+    "cn": "森海飞霞"
+  },
+  {
+    "id": 126,
+    "name": "void_spirit",
+    "localizedName": "虚无之灵",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Nuker",
+      "Disabler"
+    ],
+    "attribute": "allAttr",
+    "cn": "虚无之灵"
+  },
+  {
+    "id": 128,
+    "name": "snapfire",
+    "localizedName": "电炎绝手",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Disabler",
+      "Escape"
+    ],
+    "attribute": "allAttr",
+    "cn": "电炎绝手"
+  },
+  {
+    "id": 129,
+    "name": "mars",
+    "localizedName": "玛尔斯",
+    "roles": [
+      "Carry",
+      "Initiator",
+      "Disabler",
+      "Durable"
+    ],
+    "attribute": "str",
+    "cn": "玛尔斯"
+  },
+  {
+    "id": 131,
+    "name": "ringmaster",
+    "localizedName": "Ringmaster",
+    "roles": [
+      "Support",
+      "Nuker",
+      "Escape",
+      "Disabler"
+    ],
+    "attribute": "int"
+  },
+  {
+    "id": 135,
+    "name": "dawnbreaker",
+    "localizedName": "破晓辰星",
+    "roles": [
+      "Carry",
+      "Durable"
+    ],
+    "attribute": "str",
+    "cn": "破晓辰星"
+  },
+  {
+    "id": 136,
+    "name": "marci",
+    "localizedName": "玛西",
+    "roles": [
+      "Support",
+      "Carry",
+      "Initiator",
+      "Disabler",
+      "Escape"
+    ],
+    "attribute": "allAttr",
+    "cn": "玛西"
+  },
+  {
+    "id": 137,
+    "name": "primal_beast",
+    "localizedName": "兽",
+    "roles": [
+      "Initiator",
+      "Durable",
+      "Disabler"
+    ],
+    "attribute": "str",
+    "cn": "兽"
+  },
+  {
+    "id": 138,
+    "name": "muerta",
+    "localizedName": "琼英碧灵",
+    "roles": [
+      "Carry",
+      "Nuker",
+      "Disabler"
+    ],
+    "attribute": "int",
+    "cn": "琼英碧灵"
+  },
+  {
+    "id": 145,
+    "name": "kez",
+    "localizedName": "司环术士",
+    "roles": [
+      "Carry",
+      "Escape",
+      "Disabler"
+    ],
+    "attribute": "agi",
+    "cn": "司环术士"
+  },
+  {
+    "id": 155,
+    "name": "largo",
+    "localizedName": "Largo",
+    "roles": [
+      "Durable",
+      "Disabler",
+      "Support"
+    ],
+    "attribute": "str"
+  }
+]

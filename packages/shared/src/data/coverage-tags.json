@@ -1,0 +1,42 @@
+[
+  {
+    "tag": "init",
+    "label": "先手"
+  },
+  {
+    "tag": "control",
+    "label": "控制"
+  },
+  {
+    "tag": "tower",
+    "label": "推塔"
+  },
+  {
+    "tag": "clear",
+    "label": "清线"
+  },
+  {
+    "tag": "sustain",
+    "label": "续航"
+  },
+  {
+    "tag": "save",
+    "label": "救人"
+  },
+  {
+    "tag": "late",
+    "label": "后期"
+  },
+  {
+    "tag": "magic",
+    "label": "魔法伤害"
+  },
+  {
+    "tag": "physical",
+    "label": "物理伤害"
+  },
+  {
+    "tag": "roshan",
+    "label": "Roshan"
+  }
+]
